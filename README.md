@@ -1,4 +1,4 @@
-# malina-cloud-platform-case-study
+# cloud-platform-case-study
 
 /security-automation: Designing Role-Based Secrets Injection using PAM/AAM APIs. Python script and Kubernetes manifests
 
