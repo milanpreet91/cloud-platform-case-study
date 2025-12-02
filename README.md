@@ -1,5 +1,7 @@
 # cloud-platform-case-study
 
+High-Level Summary:
+
 /security-automation: Designing Role-Based Secrets Injection using PAM/AAM APIs. Python script and Kubernetes manifests
 
 /observability: Zero-Downtime Reliability: Architecting the Malina Observability Stack with FluentD and Centralized Parsing.
